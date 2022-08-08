@@ -1,0 +1,37 @@
+.sidebar {
+    background-color: #fefaf3;
+}
+.sidebar-brand {
+    /* background: #fefaf3 !important; */
+    color: #de2834 !important;
+  }
+.sidebar .nav-item {
+    /* background: #fefaf3 !important; */
+    color: #de2834 !important;
+  }
+
+  .sidebar .nav-item .nav-link {
+    /* background: #fefaf3 !important; */
+    color: #de2834 !important;
+  }
+.sidebar .nav-item:hover, .sidebar .nav-item:active {
+    background: #de2834 !important;
+    color: #fefaf3 !important;
+  }
+  .sidebar .nav-item:hover .nav-link, .sidebar .nav-item:active .nav-link {
+    color: #fefaf3 !important;
+  }
+  .sidebar .nav-item .collapse .collapse-inner .collapse-item, .sidebar .nav-item .collapsing .collapse-inner .collapse-item {
+    color: #fefaf3 !important;
+  }
+  .sidebar .nav-item .collapse .collapse-inner .collapse-item:hover, .sidebar .nav-item .collapsing .collapse-inner .collapse-item:hover {
+    color: #de2328 !important;
+  }
+  .sidebar .nav-item .collapse .collapse-inner .collapse-item:active, .sidebar .nav-item .collapsing .collapse-inner .collapse-item:active {
+    background-color: #fefaf3 !important;
+    color: #de2328 !important;
+}
+.sidebar .nav-item .collapse .collapse-inner .collapse-item:hover, .sidebar .nav-item .collapsing .collapse-inner .collapse-item:hover {
+  background-color: #fefaf3 !important;
+  color: #de2328;
+}
